@@ -6,7 +6,7 @@ Estas tecnologías digitales también permiten a las aerolíneas brindar informa
 
 Sin embargo, a pesar de este panorama favorable, F5 Airlines se ha dado cuenta de que no ha aprovechado estas oportunidades de la manera más efectiva. Como respuesta, la compañía ha desarrollado una tecnología digital inteligente que le permite evaluar con mayor precisión la satisfacción de sus clientes en el momento de volar con ellos. Esta innovación promete ayudar a F5 Airlines a mejorar sus servicios y experiencias de manera más estratégica, con el objetivo de destacar en un mercado altamente competitivo y en constante evolución.
 
-![Avion](https://www.google.com/url?sa=i&url=https%3A%2F%2Felpais.com%2Fgente%2F2023-06-16%2Fconfesiones-de-shakira-en-el-juzgado-hice-aterrizar-el-avion-en-barcelona-solo-para-darle-un-beso-a-gerard.html&psig=AOvVaw3pYA-ty_XRBQ60Ir7CtFQl&ust=1694594462341000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiijrnWpIEDFQAAAAAdAAAAABAF)
+![Avion](https://cdn-icons-png.flaticon.com/512/6420/6420060.png)
 
 # Solución
 
@@ -24,4 +24,4 @@ Este enfoque nos permite tomar decisiones basadas en datos sólidos y mejorar co
 4. Instala el archivo **requirements.txt** con el comando **pip install -r requirements.txt.**
 5. Ejecuta en la terminal el comando **streamlit run main_page.py**
 
-![Inteligencia Artificial](https://www.google.com/url?sa=i&url=https%3A%2F%2Felchesemueve.com%2Fque-es-la-inteligencia-artificial-ai&psig=AOvVaw20z8SphVTOIgHkgHXTEkuj&ust=1694595041717000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMitr83YpIEDFQAAAAAdAAAAABAE)
+![Inteligencia Artificial](https://elchesemueve.com/images/blog/google/aplicaciones-inteligencia-artificial.png)
