@@ -1,5 +1,5 @@
 # :airplane: F5-Airlines-Satisfaction-Equipo-6 :airplane:
-=============================================================================
+***
 
 El crecimiento exponencial de la cantidad de datos a lo largo del tiempo ha creado oportunidades significativas en todos los sectores de la industria, incluyendo las aerolíneas. En este entorno altamente competitivo, las aerolíneas se esfuerzan por atraer y retener a un mayor número de clientes, centrándose en ofrecer servicios de mayor calidad y lujo. Para lograrlo, han adoptado tecnologías digitales inteligentes que les permiten mejorar la comunicación con los pasajeros, analizar en profundidad los perfiles de estos, y, en última instancia, mejorar su experiencia de vuelo al proporcionar recomendaciones y ofertas personalizadas en tiempo real.
 
