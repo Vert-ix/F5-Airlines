@@ -1,4 +1,4 @@
-# F5-Airlines-Satisfaction-Equipo-6
+# F5-Airlines-Satisfaction-Equipo-6 :airplane:
 
 El crecimiento exponencial de la cantidad de datos a lo largo del tiempo ha creado oportunidades significativas en todos los sectores de la industria, incluyendo las aerolíneas. En este entorno altamente competitivo, las aerolíneas se esfuerzan por atraer y retener a un mayor número de clientes, centrándose en ofrecer servicios de mayor calidad y lujo. Para lograrlo, han adoptado tecnologías digitales inteligentes que les permiten mejorar la comunicación con los pasajeros, analizar en profundidad los perfiles de estos, y, en última instancia, mejorar su experiencia de vuelo al proporcionar recomendaciones y ofertas personalizadas en tiempo real.
 
@@ -8,20 +8,24 @@ Sin embargo, a pesar de este panorama favorable, F5 Airlines se ha dado cuenta d
 
 ![Avion](https://cdn-icons-png.flaticon.com/512/6420/6420060.png)
 
-# Solución
+# Solución :bulb:
 
 Hemos realizado un análisis de los datos recopilados previamente y, mediante este conjunto de datos, hemos entrenado un modelo de Machine Learning. Este modelo nos permite analizar y prever si un cliente se encuentra satisfecho o insatisfecho al responder un formulario. La aplicación en línea ejecuta este modelo una vez que un cliente completa el formulario y envía su respuesta. Posteriormente, almacena los datos junto con la predicción generada por el modelo. Esto nos brinda la oportunidad de utilizar estos datos para el análisis continuo y para el entrenamiento del modelo en futuros casos de respuestas de los usuarios de la aerolínea.
 
 Este enfoque nos permite tomar decisiones basadas en datos sólidos y mejorar constantemente la calidad de nuestros servicios al comprender mejor la satisfacción de nuestros clientes y tomar medidas proactivas en consecuencia.
 
-# Instalación
+# Tecnologias Utilizadas
+
+# :heavy_exclamation_mark: Instalación :heavy_exclamation_mark:
 
 ## Importante: Es necesario tener instalado Python en tu sistema
 
 1. Descargar el repositorio en: https://github.com/AI-School-F5-P2/F5-Airlines.git
 2. Descargar e instalar MongoDB Compass para crear el servidor
 3. Utiliza la terminal o cualquier IDE de código como Visual Studio Code (VSC) y posiciónate en la carpeta.
-4. Instala el archivo **requirements.txt** con el comando **pip install -r requirements.txt.**
-5. Ejecuta en la terminal el comando **streamlit run main_page.py**
+4. Instala el archivo `requirements.txt` con el comando `pip install -r requirements.txt.`
+5. Ejecuta en la terminal el comando `streamlit run main_page.py`
 
 ![Inteligencia Artificial](https://elchesemueve.com/images/blog/google/aplicaciones-inteligencia-artificial.png)
+
+# Fu
