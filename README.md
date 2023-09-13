@@ -32,5 +32,6 @@ https://github.com/AI-School-F5-P2/F5-Airlines.git
 3. Utiliza la terminal o cualquier IDE de código como Visual Studio Code (VSC) y posiciónate en la carpeta.
 4. Instala el archivo `requirements.txt` con el comando `pip install -r requirements.txt.`
 5. Ejecuta en la terminal el comando `streamlit run main_page.py`
+6. De manera temporal tenemos desplegada nuestra App a través de Render, en la siguiente dirección: https://airlines-f5.onrender.com/
 
 ![Inteligencia Artificial](https://elchesemueve.com/images/blog/google/aplicaciones-inteligencia-artificial.png)
